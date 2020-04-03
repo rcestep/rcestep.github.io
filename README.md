@@ -509,4 +509,4 @@ Matthew Beach for being that amazing encouragement and helping me through studyi
 Ethan Yount for helping push me to keep studying and being my study partner for classes.  Thanks for the support!
 
 
-[LinkedIn](https://linkedin.com/in/roland-c-estep) | [Github](https://github.com/rcestep) | [E-mail](roland.estep@outlook.com)
+[LinkedIn](https://linkedin.com/in/roland-c-estep) | [Github](https://github.com/rcestep)
