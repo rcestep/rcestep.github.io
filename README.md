@@ -19,4 +19,4 @@ These classes not only challenged me to think in a precise way, but they also ma
 
 ![CCENT](images/Cisco%20Certified%20Entry%20Networking%20Technician%20certificate.pdf)
 
-![PC](images/pc_front.jpg)
+![PC](images/pc_front.jpg | width=100)
