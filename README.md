@@ -4,5 +4,5 @@
 
 Click [here](https://github.com/rcestep/devnet_lab) to view my Python script that will make a **startup config** for a Cisco router.
 
-![CCENT](images/Cisco Certified Entry Networking Technician certificate.pdf)
+![CCENT](images/Cisco%20Certified%20Entry%20Networking%20Technician%20certificate.pdf)
 Format: ![Alt Text](CCENT Certificate)
