@@ -3,7 +3,7 @@
 
 ***This portfolio is a culmination of everything that I achieved in my time at Mitchell and during my studying of Information Technology!***
 
-I want to first say thank you to all my instructors for pushing me to be the best I can be!  I could npt have done this without all my family and friends' help to help me study and lab it up every chance I could get.  This portfolio is my story of how I went from leasrning basic connections to a Netgear switch to being here now to showcase my many projects that I have done!
+I want to first say thank you to all my instructors for pushing me to be the best I can be!  I could not have done this without all my family and friends' help to help me study and lab it up every chance I could get.  This portfolio is my story of how I went from learning basic connections to a Netgear switch to being here now to showcase my many projects that I have done!
 
 ## Mr. Cain's Classes
 -----------------------
@@ -13,7 +13,7 @@ They not only allowed me to learn about basic end user skills like deploying Win
 ## Ms. Shoemaker's Classes
 ------------------------
 
-These classes not only challenged me to think in a precise way, but they also made me push myself to be better.  The coding classes were super fun as me, Ethan Yount and Robert Rexrode made a website using HTML, PHP and CSS.  We worked together to make an amazing looking interface that worked.  The site was a rock n roll site that users could go to if they wanted to know the latest shows that were playing near them.  The site would aks the user what favorite type of music they perferred and got their name and information to search for concerts happening aroudn their area.  It would also suggest other bands and concerts as well.  With the cosing class, I was emersed into the world of programming and really enjoyed it.  For the hardware and software support class, I learned a lot about what it takes to build a PC and the proper troubleshooting skills I would need to be an efficient technician.  With Ms. Shoemaker's help and teaching/guidance, I was able to gain the skills it would take to build my own [PC](images/pc_inside.jpg)!  With the knowledge I gained through her classes, I can confidently say that I have the necessary skills to be an amazing IT professional and even a DevOps engineer someday!
+These classes not only challenged me to think in a precise way, but they also made me push myself to be better.  The coding classes were super fun as me, Ethan Yount and Robert Rexrode made a website using HTML, PHP and CSS.  We worked together to make an amazing looking interface that worked.  The site was a rock n roll site that users could go to if they wanted to know the latest shows that were playing near them.  The site would ask the user what favorite type of music they preferred and got their name and information to search for concerts happening around their area.  It would also suggest other bands and concerts as well.  With the coding class, I was immersed into the world of programming and really enjoyed it.  For the hardware and software support class, I learned a lot about what it takes to build a PC and the proper troubleshooting skills I would need to be an efficient technician.  With Ms. Shoemaker's help and teaching/guidance, I was able to gain the skills it would take to build my own [PC](images/pc_inside.jpg)!  With the knowledge I gained through her classes, I can confidently say that I have the necessary skills to be an amazing IT professional and even a DevOps engineer someday!
 
 ## Ms. Watt's Class
 ------------------------
@@ -470,7 +470,7 @@ Even though this script here doesn't fully make the file, I had lost the origina
 ## Mr. Theisen's Classes
 ------------------------
 
-The networking track classes at Mitchell are mainly taught by Mr. Theisen and with his teaching, I was able to learn so much about network administration and how to setup, monitor, troubleshoot, and administer large enterprise networks.  With his guidance, I have learned about networking concepts like switching and routing, the OSI model for troubleshooting, the routing protocols of networks and the internet and much much more.  The classes challenged me to get better with each lab I did.  I learned and mastered Cisco IOS for switches and routers and even though I may have my blank moments, I can get the job done in the end.
+The networking track classes at Mitchell are mainly taught by Mr. Theisen and with his teaching, I was able to learn so much about network administration and how to setup, monitor, troubleshoot, and administer large enterprise networks.  With his guidance, I have learned about networking concepts like switching and routing, the OSI model for troubleshooting, the routing protocols of networks and the internet and much more.  The classes challenged me to get better with each lab I did.  I learned and mastered Cisco IOS for switches and routers and even though I may have my blank moments, I can get the job done in the end.
 
 ## My Other Accomplishments
 ------------------------
@@ -492,7 +492,7 @@ PC Front | PC Inside
 
 Gregory Cain for always giving me the encouraging speeches I needed.
 
-Robert Theisen for keeping me enganged and helping me.
+Robert Theisen for keeping me engaged and helping me.
 
 Liz Shoemaker for always listening and being there to talk to.
 
