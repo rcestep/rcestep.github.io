@@ -507,3 +507,6 @@ All of the NET 226 students for having my back through the rough studying of CCN
 Matthew Beach for being that amazing encouragement and helping me through studying and showing me that no matter what happens in your life, you always have support from brothers.  Love ya man!
 
 Ethan Yount for helping push me to keep studying and being my study partner for classes.  Thanks for the support!
+
+
+[LinkedIn](https://linkedin.com/in/roland-c-estep) | [Github](https://github.com/rcestep) | [E-mail](roland.estep@outlook.com)
