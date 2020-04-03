@@ -21,4 +21,4 @@ These classes not only challenged me to think in a precise way, but they also ma
 
 PC Front | PC Inside
 -------- | ---------
-<img src="images/pc_front.jpg" width=400/> | <img src="images/pc_inside.jpg" width=400/>
+![PC Front](images/pc_front.jpg) | ![PC Inside](images/pc_inside.jpg)
