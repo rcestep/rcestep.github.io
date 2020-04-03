@@ -483,3 +483,24 @@ Click here to view my [CCNA](images/Cisco%20Certified%20Network%20Associate%20ce
 PC Front | PC Inside
 -------- | ---------
 ![PC Front](images/pc_front.jpg) | ![PC Inside](images/pc_inside.jpg)
+
+
+### Huge shoutout to all the people who have helped me through this amazing journey!!
+
+Gregory Cain for always giving me the encouraging speeches I needed.
+
+Robert Theisen for keeping me enganged and helping me.
+
+Liz Shoemaker for always listening and being there to talk to.
+
+Loraine Watt for pushing me to be better and take on the hard challenges.
+
+Chad Hicks for being real with me about things and encouraging me to move forward.
+
+Jeff Benfield for being an amazing role model and get me thinking outside the box.
+
+All of the NET 226 students for having my back through the rough studying of CCNA.
+
+Matthew Beach for being that amazing encouragement and helping me through studying and showing me that no matter what happens in your life, you always have support from brothers.  Love ya man!
+
+Ethan Yount for helping push me to keep studying and being my study partner for classes.  Thanks for the support!
