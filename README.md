@@ -19,7 +19,6 @@ These classes not only challenged me to think in a precise way, but they also ma
 
 ![CCENT](images/Cisco%20Certified%20Entry%20Networking%20Technician%20certificate.pdf)
 
-<tr>
-  <td><img src="images/pc_front.jpg" width=400/></td>
-  <td><img src="images/pc_inside.jpg" width=400/></td>
-<tr>
+PC Front | PC Inside
+-------- | ---------
+<img src="images/pc_front.jpg" width=400/> | <img src="images/pc_inside.jpg" width=400/>
