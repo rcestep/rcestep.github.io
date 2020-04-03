@@ -1,21 +1,21 @@
-Roland Estep Portfolio
+# Roland Estep Portfolio
 -------------------------
 
 ***This portfolio is a culmination of everything that I achieved in my time at Mitchell and during my studying of Information Technology!***
 
 I want to first say thank you to all my instructors for pushing me to be the best I can be!  I could npt have done this without all my family and friends' help to help me study and lab it up every chance I could get.  This portfolio is my story of how I went from leasrning basic connections to a Netgear switch to being here now to showcase my many projects that I have done!
 
-Mr. Cain's Classes
+## Mr. Cain's Classes
 -----------------------
 
 They not only allowed me to learn about basic end user skills like deploying Windows 10 machines and setting up printers that would cause a major headache, but his classes also helped me to be a better professional in IT and in life as he gave us insight on what we could see going into the field and encouraged me personally to keep shooting for the stars and beyond!  With his classes, I learned how to setup Windows 8, 8.1, and 10 in a fashion that would be suitable for end users.  He also had us do a Windows Server lab that we needed to setup a file server and allow access to users so they could not only save documents but also print them off as well.  This [project](https://mitchellcc-my.sharepoint.com/personal/dmshoaf_students_mitchellcc_edu/_layouts/15/Doc.aspx?sourcedoc={b391466f-adb64058-832e-4b9459e37533}&action=edit&wd=target%28Member%20Positions.one%7C04331978-d62c-4199-a4f5-4ba02af13c45%2FPositions%7Cb6ffd3984e44-457e-bf6d-05ef49f5b1cf%2F%29) I was the lead in making sure that things were progressing, and in the project, I learned how to be a better leader and allow my team to work as one to get the job done.
 
-Ms. Shoemaker's Classes
+## Ms. Shoemaker's Classes
 ------------------------
 
 These classes not only challenged me to think in a precise way, but they also made me push myself to be better.  The coding classes were super fun as me, Ethan Yount and Robert Rexrode made a website using HTML, PHP and CSS.  We worked together to make an amazing looking interface that worked.  The site was a rock n roll site that users could go to if they wanted to know the latest shows that were playing near them.  The site would aks the user what favorite type of music they perferred and got their name and information to search for concerts happening aroudn their area.  It would also suggest other bands and concerts as well.  With the cosing class, I was emersed into the world of programming and really enjoyed it.  For the hardware and software support class, I learned a lot about what it takes to build a PC and the proper troubleshooting skills I would need to be an efficient technician.  With Ms. Shoemaker's help and teaching/guidance, I was able to gain the skills it would take to build my own [PC](images/pc_inside.jpg)!  With the knowledge I gained through her classes, I can confidently say that I have the necessary skills to be an amazing IT professional and even a DevOps engineer someday!
 
-Ms. Watt's Class
+## Ms. Watt's Class
 ------------------------
 
 Ms. Watt's class for Python really challenged me hard because this was an instructor who knew what to look for in code and made sure that her students became meticulous in all their work by really challenging us to get the code and make sure there was no room for mistakes!!  That class although rough gave me the skill to really be thorough with my work and make sure that I fixed anything and everything I could.  With that class, the final project that I had done was make a Python script that made a subnet table for departments and made the subnet table out using Python and using the inputs from the user.  The code is below!
@@ -25,7 +25,7 @@ Ms. Watt's class for Python really challenged me hard because this was an instru
 
 With Ms. Watt's teaching, I really got an understanding of how a programmers mind should operate and I grew a fondness for coding, so much that I decided to pursue more and more knowledge about coding and languages that I don't quite know yet!
 
-Mr. Hicks' Classes
+## Mr. Hicks' Classes
 ------------------------
 
 Mr. Hicks' class for Linux was a great class to be in.  He taught us about the ins and outs of Linux and we did many labs to understand what Linux does and how to set up many different things including setting up directories and changing permissions for users, groups, and other users, changing ownership of the file to a different user, setting up a LAMP stack and creating servers like web servers, file servers, ssh servers, etc.  I learned a lot from Mr. Hicks in that using Linux can be much easier and smoother than Windows because Linux was built for freedom, and with that freedom, I was able to build a Raspberry Pi setup with a TFTP server and write a Python script that would create a startup config for a Cisco router and transfer that file to the router itself.  The script is below!
@@ -467,12 +467,12 @@ main()
 ```
 Even though this script here doesn't fully make the file, I had lost the original file, but I am still recreating and modifying the version that I had into something better.  Through Hicks' online class, I have learned the business side of IT like decision making styles that can help companies with their IT department and their needs and so on.
 
-Mr. Theisen's Classes
+## Mr. Theisen's Classes
 ------------------------
 
 The networking track classes at Mitchell are mainly taught by Mr. Theisen and with his teaching, I was able to learn so much about network administration and how to setup, monitor, troubleshoot, and administer large enterprise networks.  With his guidance, I have learned about networking concepts like switching and routing, the OSI model for troubleshooting, the routing protocols of networks and the internet and much much more.  The classes challenged me to get better with each lab I did.  I learned and mastered Cisco IOS for switches and routers and even though I may have my blank moments, I can get the job done in the end.
 
-My Other Accomplishments
+## My Other Accomplishments
 ------------------------
 
 With my knowledge of networking through the Cisco track at Mitchell and with the help from a few friends, I was able to pass the CCNA Routing and Switching exam and now with many more things to learn, I still have much more to learn!!
