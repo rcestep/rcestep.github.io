@@ -1059,4 +1059,5 @@ My family for sticking with me through my constant studying and being there for 
 
 *Thanks for support to anyone else I may have left out!!  If you are interested in talking more about IT or anything you may need help with, I am open to all types of discussions!!*
 
-[LinkedIn](https://linkedin.com/in/roland-c-estep) | [Github](https://github.com/rcestep) | Email: **roland.estep@outlook.com** | Phone: **(980) 892-2512**
+[LinkedIn](https://linkedin.com/in/roland-c-estep) | [Github](https://github.com/rcestep) | Email: **roland.estep@outlook.com** | Phone: **(980) 892-2512** | Discord: **MajorBruh#3953**
+
