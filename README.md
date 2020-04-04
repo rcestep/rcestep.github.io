@@ -937,8 +937,16 @@ main()
 Through Hicks' online class, I have learned the business side of IT like decision making styles that can help companies with their IT department and their needs and so on.
 
 
+## Mr. Bemfield's Class
+-------------------------
+
+I had a **great honor** to attend the Security class being led by Mr. Benfield.  His wisdom and many real-life examples of security breaches that he knew of or had experienced really helped me to learn one thing: security is an ongoing process that should be tended to with care and with great importance!  Learning about the different attack types and how black hat hackers could potentially cause chaos for many company's with just the stroke of the Enter key!  I learned a lot about network infrastructures and how to set them up in a secure fashion to ensure that maximum security can be attained.  This class we had many labs that had to deal with security and aspects of security and we even had a server that we had to break into.  With the help of my team, we were able to access a Linux server with root priviledges.  The informations I learned in that class wil always stay with me as I go further with my career.
+
+In addition to that class, I am currently learning more about Cisco ASA firewalls and adding more to my skill bank by configuring ASA firewalls to filter traffic inside and outside an enterprise network.
+
+
 ## Mr. Theisen's Classes
-------------------------
+-------------------------
 
 The networking track classes at Mitchell are mainly taught by Mr. Theisen and with his teaching, I was able to learn so much about network administration and how to setup, monitor, troubleshoot, and administer large enterprise networks.  With his guidance, I have learned about networking concepts like switching and routing, the OSI model for troubleshooting, the routing protocols of networks and the internet and much more.  The classes challenged me to get better with each lab I did.  I learned and mastered Cisco IOS for switches and routers and even though I may have my blank moments, I can get the job done in the end.
 
@@ -947,17 +955,13 @@ Some of the configurations I haave done on Cisco Switches are applying VLANs
 ```
 vlan 10
   name IT
-
 vlan 20
   name HR
-
 vlan 30
   name DEVOPS
-
 vlan 40
   name MANAGEMENT
-
-vlan 1000
+vlan 99
   name Native
 ```
 
@@ -967,19 +971,16 @@ Doing the VLANs, issuing the **switchport mode access** and **switchport mode tr
 int range f0/1-8
   switchport mode access
   switchport access vlan 10
-
 int range f0/9-16
   switchport mode access
   switchport access vlan 20
-
 int range f0/17-24
   switchport mode access
   switchport access vlan 30
-
 int g0/1
   switchport mode trunk
   switchport trunk allowed vlan 10,20,30
-  switchport trunk native vlan 1000
+  switchport trunk native vlan 99
 ```
 
 Once the switches are configured with VLANs, you can go into the router and make sure that subinterfaces are configured on the router interface facing the switch.
@@ -987,20 +988,21 @@ Once the switches are configured with VLANs, you can go into the router and make
 ```
 int g0/0
   no shutdown
-
 int g0/0.10
   encapsulation dot1q 10
   ip address 192.168.10.1 255.255.255.0
   no shutdown
-
 int g0/0.20
   encapsulation dot1q 20
   ip address 192.168.20.1 255.255.255.0
   no shutdown
-
 int g0/0.30
   encapsulation dot1q 30
   ip address 192.168.30.1 255.255.255.0
+  no shutdown
+int g0/0.1000
+  encapsulation dot1q 99
+  ip address 192.168.99.1 255.255.255.0
   no shutdown
 ```
 
@@ -1048,6 +1050,7 @@ Matthew Beach for being that amazing encouragement and helping me through studyi
 Ethan Yount for helping push me to keep studying and being my study partner for classes.  Thanks for the support!
 
 My family for sticking with me through my constant studying and being there for me when I needed help.  Couldn't accomplish this without you all!!
+
 
 
 *Thanks for support to anyone else I may have left out!!  If you are interested in talking more about IT or anything you may need help with, I am open to all types of discussions!!  Below are a few ways to reach out!*
