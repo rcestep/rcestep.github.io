@@ -1061,4 +1061,7 @@ My family for sticking with me through my constant studying and being there for 
 
 [LinkedIn](https://linkedin.com/in/roland-c-estep) | [Github](https://github.com/rcestep)
 -------------------------------------------------- | ------------------------------------
-Email: **roland.estep@outlook.com** | Phone: **(980) 892-2512** | Discord: **MajorBruh#3953**
+Phone: **(980) 892-2512**                          | Discord: **MajorBruh#3953**         
+-------------------------------------------------- | ------------------------------------
+Email: **roland.estep@outlook.com                  |                                     
+-------------------------------------------------- | ------------------------------------
