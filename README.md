@@ -937,7 +937,7 @@ main()
 Through Hicks' online class, I have learned the business side of IT like decision making styles that can help companies with their IT department and their needs and so on.
 
 
-## Mr. Bemfield's Class
+## Mr. Benfield's Class
 -------------------------
 
 I had a **great honor** to attend the Security class being led by Mr. Benfield.  His wisdom and many real-life examples of security breaches that he knew of or had experienced really helped me to learn one thing: security is an ongoing process that should be tended to with care and with great importance!  Learning about the different attack types and how black hat hackers could potentially cause chaos for many company's with just the stroke of the Enter key!  I learned a lot about network infrastructures and how to set them up in a secure fashion to ensure that maximum security can be attained.  This class we had many labs that had to deal with security and aspects of security and we even had a server that we had to break into.  With the help of my team, we were able to access a Linux server with root priviledges.  The informations I learned in that class wil always stay with me as I go further with my career.
