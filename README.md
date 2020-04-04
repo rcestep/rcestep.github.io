@@ -50,6 +50,7 @@ Operating Systems:
   - Windows Server 2016 on desktop server runnin AD, DHCP, and DNS
 
 Devices Set Up
+  
   ![](images/topology.PNG)
 
 
