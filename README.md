@@ -497,7 +497,7 @@ With Ms. Watt's teaching, I really got an understanding of how a programmers min
 ## Mr. Hicks' Classes
 ------------------------
 
-Mr. Hicks' class for Linux was a great class to be in.  He taught us about the ins and outs of Linux and we did many labs to understand what Linux does and how to set up many different things including setting up directories and changing permissions for users, groups, and other users, changing ownership of the file to a different user, setting up a LAMP stack and creating servers like web servers, file servers, ssh servers, etc.  I learned a lot from Mr. Hicks in that using Linux can be much easier and smoother than Windows because Linux was built for freedom, and with that freedom, I was able to build a Raspberry Pi setup with a TFTP server and write a Python script that would create a startup config for a Cisco router and transfer that file to the router itself.  The script is below!
+Mr. Hicks' class for Linux was a great class to be in.  He taught us about the ins and outs of Linux and we did many labs to understand what Linux does and how to set up many different things including setting up directories and changing permissions for users, groups, and other users, changing ownership of the file to a different user, setting up a LAMP stack and creating servers like web servers, file servers, ssh servers, etc.  I learned a lot from Mr. Hicks in that using Linux can be much easier and smoother than Windows because Linux was built for freedom, and with that freedom, I was able to build a Raspberry Pi setup with a TFTP server and write a Python script that would create a startup config for a Cisco router and transfer that file to the router itself.  ~~~The script is below!~~~ This version of the script is actually reformed and not complete.  I am currently working to get my script up and running soon!
 ```Python
 def main():
 
@@ -934,7 +934,7 @@ def getTotalInterfaces():
 main()
 
 ```
-Even though this script here doesn't fully make the file, I had lost the original file, but I am still recreating and modifying the version that I had into something better.  Through Hicks' online class, I have learned the business side of IT like decision making styles that can help companies with their IT department and their needs and so on.
+Through Hicks' online class, I have learned the business side of IT like decision making styles that can help companies with their IT department and their needs and so on.
 
 
 ## Mr. Theisen's Classes
