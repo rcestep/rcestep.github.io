@@ -17,11 +17,11 @@ They not only allowed me to learn about basic end user skills like deploying Win
 
 
 Positions:
-  Project Manager - Roland
-  Team Leader     - Ainsley
-  Researcher      - Alex
-  Speaker         - Kymari
-  Researcher      - Deanna
+  - Project Manager - Roland
+  - Team Leader     - Ainsley
+  - Researcher      - Alex
+  - Speaker         - Kymari
+  - Researcher      - Deanna
 
 Topology:
   - Star Topology
