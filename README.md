@@ -45,9 +45,7 @@ Click here to view my [CCNA R&S](images/Cisco%20Certified%20Network%20Associate%
 
 Click here to view my [CCNA](images/Cisco%20Certified%20Network%20Associate%20certificate.pdf)!
 
-PC Front | PC Inside
--------- | ---------
-![PC Front](images/pc_front.jpg) | ![PC Inside](images/pc_inside.jpg)
+
 
 
 ### Huge shoutout to all the people who have helped me through this amazing journey!!
