@@ -5,7 +5,7 @@ I played an impacting role in MTS as the Club Representative and later as Presid
 
 Say hi to Traitor!
 
-![Traitor](images/traitor.jpg)
+![Traitor](https://github.com/rcestep/rcestep.github.io/blob/master/images/traitor.jpg)
 ![Traitor Box Build](images/traitor_boxbuild.jpg)
 ![Traitor Setup](images/traitor_setup.jpg)
 
