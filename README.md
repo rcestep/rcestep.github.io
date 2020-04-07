@@ -11,6 +11,7 @@ I want to first say thank you to all my instructors for pushing me to be the bes
 I ~~want to be~~ AM an aspiring IT professional that wants to become one with many hats, and in order to do so, I will do my <strong><ins>absolute best</ins></strong> to get there and have many different skills that I can use to help better the world in all that is **technology**.  I have always been curious and intrigued by how technology works the way it does.  To be able to communicate with the world still fascinates me even now after learning all that I have.  It is all thanks to God and being in contact with fellow peers and mentors that help me along the way.
 
 [Mr. Cain's Classes](mrcainclass/mrcainclass.md) | [Ms. Shoemaker's Classes](msshoemakerclass/msshoemakerclass.md)
+------------------------------------------------ | ---------------------------------------------------------------
 [Ms. Watt's Class](mswattclass/mswattclass.md) | [Mr. Hicks' Classes](mrhicksclass/mrhicksclass.md)
 [Mr. Benfield's Class](mrbenfieldclass/mrbenfieldclass.md) | [Mr. Theisen's Classes](mrtheisenclass/mrtheisenclass.md)
 [Mitchell Technological Society](mts/mts.md) | [My Other Accomplishments](other/other.md)
