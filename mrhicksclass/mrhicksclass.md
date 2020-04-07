@@ -448,7 +448,7 @@ main()
 ```
 Through Hicks' online class, I have learned the business side of IT like decision making styles that can help companies with their IT department and their needs and so on.
 
-[Go back to Home](https://rcestep.github.com)
+Go back to [Home](https://rcestep.github.io)!
 
 [LinkedIn](https://linkedin.com/in/roland-c-estep) | [GitHub](https://github.com/rcestep) | [Discord](https://discordhub.com/profile/532348150019522580)
 -------------------------------------------------- | ------------------------------------ | ------------------------------------------------------------
