@@ -5,7 +5,7 @@ With my knowledge of networking through the Cisco track at Mitchell and with the
 
 Click here to view my [CCENT](https://github.com/rcestep/rcestep.github.io/blob/master/images/Cisco%20Certified%20Entry%20Networking%20Technician%20certificate.pdf)!
 
-Click here to view my [CCNA R&S](images/Cisco%20Certified%20Network%20Associate%20Routing%20and%20Switching%20certificate.pdf)!
+Click here to view my [CCNA R&S](https://github.com/rcestep/rcestep.github.io/blob/master/images/Cisco%20Certified%20Network%20Associate%20Routing%20and%20Switching%20certificate.pdf)!
 
 Click here to view my [CCNA](images/Cisco%20Certified%20Network%20Associate%20certificate.pdf)!
 
