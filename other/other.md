@@ -1,7 +1,7 @@
 ## My Other Accomplishments
 ------------------------------
 
-With my knowledge of networking through the Cisco track at Mitchell and with the help from a few friends, I was able to pass the CCNA Routing and Switching exam and now with many more things to learn, I still have much more to learn!!
+With my knowledge of networking through the Cisco track at Mitchell and with the help from a few friends, I was able to pass the CCNA Routing and Switching exam and even though I have come this far, I still have much more to learn!!
 
 Click here to view my [CCENT](CCENT.png)!
 
