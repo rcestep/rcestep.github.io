@@ -44,6 +44,20 @@ Devices Set Up
 
 Go back to [Home](https://rcestep.github.io)!
 
+[Ms. Shoemaker's Classes](https://rcestep.github.io/msshoemakerclass/msshoemakerclass.html)
+
+[Ms. Watt's Class](https://rcestep.github.io/mswattclass/mswattclass.html)
+
+[Mr. Hick's Classes](https://rcestep.github.io/mrhicksclass/mrhicksclass.html)
+
+[Mr. Benfield's Class](https://rcestep.github.io/mrbenfieldclass/mrbenfieldclass.html)
+
+[Mr. Theisen's Classes](https://rcestep.github.io/mrtheisenclass/mrtheisenclass.html)
+
+[Mitchell Technological Society](https://rcestep.github.io/mts/mts.html)
+
+[My Other Accomplishments](https://rcestep.github.io/other/other.html)
+
 [LinkedIn](https://linkedin.com/in/roland-c-estep) | [GitHub](https://github.com/rcestep) | [Discord](https://discordhub.com/profile/532348150019522580)
 -------------------------------------------------- | ------------------------------------ | ------------------------------------------------------------
 Email: **roland.estep@outlook.com**                | Phone: **(980)892-2512**             |
