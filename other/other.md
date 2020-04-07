@@ -5,9 +5,9 @@ With my knowledge of networking through the Cisco track at Mitchell and with the
 
 Click here to view my [CCENT](CCENT.png)!
 
-Click here to view my [CCNA R&S](https://github.com/rcestep/rcestep.github.io/blob/master/other/CCNA_R&S.png)!
+Click here to view my [CCNA R&S](CCNA_R&S.png)!
 
-Click here to view my [CCNA](https://github.com/rcestep/rcestep.github.io/blob/master/other/CCNA.png)!
+Click here to view my [CCNA](CCNA.png)!
 
 Go back to [Home](https://rcestep.github.io)!
 
