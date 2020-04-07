@@ -5,8 +5,8 @@ Mr. Hicks' class for Linux was a great class to be in.  He taught us about the i
 
 Here is my Rasperry Pi!
 
-![Pi Top View](https://github.com/rcestep/rcestep.github.io/blob/master/images/pi_topview.jpg)
-![Pi](https://github.com/rcestep/rcestep.github.io/blob/master/images/pi.jpg)
+![Pi](pi.jpg)
+![Pi Top View](pi_topview.jpg)
 
 This Raspberry Pi is what I used to run the Python script!  When the script ran, the Pi was then connected to the router and the file was pulled from the server running on the Pi!
 
