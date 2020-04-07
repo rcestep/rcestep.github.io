@@ -45,4 +45,4 @@ You can find more of this code by visiting [my page](https://github.com/rcestep/
 
 PC Front | PC Inside
 -------- | ---------
-![PC Front](images/pc_front.jpg) | ![PC Inside](images/pc_inside.jpg)
+![PC Front](https://github.com/rcestep/rcestep.github.io/blob/master/images/pc_front.jpg) | ![PC Inside](images/pc_inside.jpg)
