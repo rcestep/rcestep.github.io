@@ -41,11 +41,21 @@ access-group OUTSIDE in interface outside
 These configurations, although hard to read, configure a firewall with IP addresses, labels networks with names, and it allows ICMP traffic from the inside LAN to the remote LAN and the WAN and allows the replies to return as well.  Learning the Cisco ASA configurations have been a challenge, but it's yet another feather in my cap!
 
 Go back to [Home](https://rcestep.github.io)!
+
 [Mr. Cain's Classes](https://rcestep.github.io/mrcainclass/mrcainclass.html)
-[]()
-[]()
-[]()
-[]()
+
+[Ms. Shoemaker's Classes](https://rcestep.github.io/msshoemakerclass/msshoemakerclass.html)
+
+[Ms. Watt's Class](https://rcestep.github.io/mswattclass/mswattclass.html)
+
+[Mr. Hicks' Classes](https://rcestep.github.io/mrhicksclass/mrhicksclass.html)
+
+[Mr. Theisen's Classes](https://rcestep.github.io/mrtheisenclass/mrtheisenclass.html)
+
+[Mitchell Technological Society](https://rcestep.github.io/mts/mts.html)
+
+[My Oher Accomplishments](https://rcestep.github.io/other/other.html)
+
 [LinkedIn](https://linkedin.com/in/roland-c-estep) | [GitHub](https://github.com/rcestep) | [Discord](https://discordhub.com/profile/532348150019522580)
 -------------------------------------------------- | ------------------------------------ | ------------------------------------------------------------
 Email: **roland.estep@outlook.com**                | Phone: **(980)892-2512**             |
