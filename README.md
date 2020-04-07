@@ -12,7 +12,7 @@ I ~~want to be~~ AM an aspiring IT professional that wants to become one with ma
 
 [Mr. Cain's Classes](mrcainclass/mrcainclass.md)
 
-[Ms. Shoemaker's Class](msshoemakerclass/msshoemakerclass.md)
+[Ms. Shoemaker's Classes](msshoemakerclass/msshoemakerclass.md)
 
 [Ms. Watt's Class](mswattclass/mswattclass.md)
 
