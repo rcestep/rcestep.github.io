@@ -46,3 +46,7 @@ You can find more of this code by visiting [my page](https://github.com/rcestep/
 PC Front | PC Inside
 -------- | ---------
 ![PC Front](https://github.com/rcestep/rcestep.github.io/blob/master/images/pc_front.jpg) | ![PC Inside](https://github.com/rcestep/rcestep.github.io/blob/master/images/pc_inside.jpg)
+
+[LinkedIn](https://linkedin.com/in/roland-c-estep) | [GitHub](https://github.com/rcestep) | [Discord](https://discordhub.com/profile/532348150019522580)
+-------------------------------------------------- | ------------------------------------ | ------------------------------------------------------------
+Email: **roland.estep@outlook.com**                | Phone: **(980)892-2512**             |
