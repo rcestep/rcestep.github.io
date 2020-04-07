@@ -42,3 +42,7 @@ These classes not only challenged me to think in a precise way, but they also ma
 ```
 
 You can find more of this code by visiting [my page](https://github.com/rcestep/headbangerz)!
+
+PC Front | PC Inside
+-------- | ---------
+![PC Front](images/pc_front.jpg) | ![PC Inside](images/pc_inside.jpg)
