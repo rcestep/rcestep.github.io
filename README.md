@@ -1127,8 +1127,17 @@ There are many more configurations that I could showcase here and I am positive 
 I also learned about setting up Windows Server to support company's in a way to allow many other workers in many different settings to efficiently do their work as well.  Setting up a domain controller was at first very challenging, but with practice, I was able to get that skill down as well.  With the training that I acquired from Mitchell, I can support company’s' infrastructures and manage not only the network equipment like switches and routers but also servers and clients.  I have learned about client-server relationships and how a client accesses information and resources using a central server that is hosting everything that a client would need to properly function.  Using a DC that is hosting a file server and using Group Policy to dictate how the machine operates, clients can be fine-tuned to perform how the company needs them to perform.
 
 
+## Mitchell Technilogical Society
+----------------------------------
+
+I played an impacting role in MTS as the Club Representative and later as President to help engage students and get them deeper into IT and promote safe technological use to the community.  The society has become a beacon of light to the students who want to go above and beyond their skills.  We as a team built a PC together and displayed it out to the hallway for other IT students and faculty to see.
+
+Say hi to Traitor!
+
+![Traitor](images/traitor.jpg | ![Traitor Box Build](images/traitor_boxbuild.jpg) | [Traitor Setup](images/traitor_setup.jpg)
+
 ## My Other Accomplishments
-------------------------
+------------------------------
 
 With my knowledge of networking through the Cisco track at Mitchell and with the help from a few friends, I was able to pass the CCNA Routing and Switching exam and now with many more things to learn, I still have much more to learn!!
 
