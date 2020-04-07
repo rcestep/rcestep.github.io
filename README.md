@@ -16,7 +16,7 @@ I ~~want to be~~ AM an aspiring IT professional that wants to become one with ma
 
 [Ms. Watt's Class](mswattclass/mswattclass.md)
 
-[Mr. Hick's Classes](mrhicksclass/mrhicksclass.md)
+[Mr. Hicks' Classes](mrhicksclass/mrhicksclass.md)
 
 [Mr. Benfield's Class](mrbenfieldclass/mrbenfieldclass.md)
 
