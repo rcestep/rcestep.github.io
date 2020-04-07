@@ -39,4 +39,4 @@ Operating Systems:
 
 Devices Set Up
   
-  ![](https://github.com/rcestep/rcestep.github.io/images/topology.PNG)
+  ![](https://github.com/rcestep/rcestep.github.io/blob/master/images/topology.PNG)
