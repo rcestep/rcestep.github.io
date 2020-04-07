@@ -40,3 +40,7 @@ Operating Systems:
 Devices Set Up
   
   ![](https://github.com/rcestep/rcestep.github.io/blob/master/images/topology.PNG)
+
+[LinkedIn](https://linkedin.com/in/roland-c-estep) | [GitHub](https://github.com/rcestep) | [Discord](https://discordhub.com/profile/532348150019522580)
+-------------------------------------------------- | ------------------------------------ | ------------------------------------------------------------
+Email: **roland.estep@outlook.com**                | Phone: **(980)892-2512**             |
