@@ -9,7 +9,7 @@ Click here to view my [CCNA R&S](https://github.com/rcestep/rcestep.github.io/bl
 
 Click here to view my [CCNA](https://github.com/rcestep/rcestep.github.io/blob/master/other/CCNA.png)!
 
-[Go back to Home](https://rcestep.github.io)
+Go back to [Home](https://rcestep.github.io)!
 
 [LinkedIn](https://linkedin.com/in/roland-c-estep) | [GitHub](https://github.com/rcestep) | [Discord](https://discordhub.com/profile/532348150019522580)
 -------------------------------------------------- | ------------------------------------ | ------------------------------------------------------------
