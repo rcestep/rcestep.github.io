@@ -48,7 +48,7 @@ Go back to [Home](https://rcestep.github.io)!
 
 [Ms. Watt's Class](https://rcestep.github.io/mswattclass/mswattclass.html)
 
-[Mr. Hick's Classes](https://rcestep.github.io/mrhicksclass/mrhicksclass.html)
+[Mr. Hicks' Classes](https://rcestep.github.io/mrhicksclass/mrhicksclass.html)
 
 [Mr. Benfield's Class](https://rcestep.github.io/mrbenfieldclass/mrbenfieldclass.html)
 
