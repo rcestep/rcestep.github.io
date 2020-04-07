@@ -1134,8 +1134,8 @@ I played an impacting role in MTS as the Club Representative and later as Presid
 
 Say hi to Traitor!
 
-![Traitor](images/traitor.jpg) | ![Traitor Box Build](images/traitor_boxbuild.jpg)
------------------------------- | -------------------------------------------------
+![Traitor](images/traitor.jpg)
+![Traitor Box Build](images/traitor_boxbuild.jpg)
 ![Traitor Setup](images/traitor_setup.jpg)
 
 ## My Other Accomplishments
