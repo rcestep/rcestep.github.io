@@ -471,3 +471,7 @@ main()
 ```
 
 With Ms. Watt's teaching, I really got an understanding of how a programmers mind should operate and I grew a fondness for coding, so much that I decided to pursue more and more knowledge about coding and languages that I don't quite know yet!
+
+[LinkedIn](https://linkedin.com/in/roland-c-estep) | [GitHub](https://github.com/rcestep) | [Discord](https://discordhub.com/profile/532348150019522580)
+-------------------------------------------------- | ------------------------------------ | ------------------------------------------------------------
+Email: **roland.estep@outlook.com**                | Phone: **(980)892-2512**             |
