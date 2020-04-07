@@ -42,7 +42,7 @@ Devices Set Up
 ![](topology.PNG)
 
 
-[Go back to home](https://rcestep.github.io)
+Go back to [Home](https://rcestep.github.io)!
 
 [LinkedIn](https://linkedin.com/in/roland-c-estep) | [GitHub](https://github.com/rcestep) | [Discord](https://discordhub.com/profile/532348150019522580)
 -------------------------------------------------- | ------------------------------------ | ------------------------------------------------------------
