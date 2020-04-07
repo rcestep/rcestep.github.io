@@ -9,3 +9,6 @@ Click here to view my [CCNA R&S](https://github.com/rcestep/rcestep.github.io/bl
 
 Click here to view my [CCNA](https://github.com/rcestep/rcestep.github.io/blob/master/images/Cisco%20Certified%20Network%20Associate%20certificate.pdf)!
 
+[LinkedIn](https://linkedin.com/in/roland-c-estep) | [GitHub](https://github.com/rcestep) | [Discord](https://discordhub.com/profile/532348150019522580)
+-------------------------------------------------- | ------------------------------------ | ------------------------------------------------------------
+Email: **roland.estep@outlook.com**                | Phone: **(980)892-2512**             |
