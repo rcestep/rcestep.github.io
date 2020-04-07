@@ -1136,7 +1136,7 @@ Say hi to Traitor!
 
 ![Traitor](images/traitor.jpg) | ![Traitor Box Build](images/traitor_boxbuild.jpg)
 ------------------------------ | -------------------------------------------------
-![Traitor Setup](images/traitor_setup.jpg) | 
+![Traitor Setup](images/traitor_setup.jpg)
 
 ## My Other Accomplishments
 ------------------------------
