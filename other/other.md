@@ -7,5 +7,5 @@ Click here to view my [CCENT](https://github.com/rcestep/rcestep.github.io/blob/
 
 Click here to view my [CCNA R&S](https://github.com/rcestep/rcestep.github.io/blob/master/images/Cisco%20Certified%20Network%20Associate%20Routing%20and%20Switching%20certificate.pdf)!
 
-Click here to view my [CCNA](images/Cisco%20Certified%20Network%20Associate%20certificate.pdf)!
+Click here to view my [CCNA](https://github.com/rcestep/rcestep.github.io/blob/master/images/Cisco%20Certified%20Network%20Associate%20certificate.pdf)!
 
