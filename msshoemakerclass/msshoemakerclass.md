@@ -47,7 +47,7 @@ PC Front | PC Inside
 -------- | ---------
 ![PC Front](pc_front.jpg) | ![PC Inside](pc_inside.jpg)
 
-[Go back to Home](https://rcestep.github.io)
+Go back to [Home](https://rcestep.github.io)!
 
 [LinkedIn](https://linkedin.com/in/roland-c-estep) | [GitHub](https://github.com/rcestep) | [Discord](https://discordhub.com/profile/532348150019522580)
 -------------------------------------------------- | ------------------------------------ | ------------------------------------------------------------
