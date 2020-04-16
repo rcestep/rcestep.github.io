@@ -46,4 +46,4 @@ My family for sticking with me through my constant studying and being there for 
 
 [LinkedIn](https://linkedin.com/in/roland-c-estep) | [GitHub](https://github.com/rcestep) | [Discord](https://discordhub.com/profile/532348150019522580)
 -------------------------------------------------- | ------------------------------------ | ------------------------------------------------------------
-Email: **roland.estep@outlook.com**                | Phone: **(980)892-2512**             |
+Email: **roland.estep@outlook.com**                | Phone: **(980)892-2512**             | [Reddit](https://reddit.com/user/rcmoonpie1)  
