@@ -446,6 +446,8 @@ def getTotalInterfaces():
 main()
 
 ```
+With the skills I gained in the Linux class, I was able to gain many skills in Linux Administration and be able to confidently say that I have found my path and want to pursue a SysAdmin position in my IT career.  I really enjoyed learning about Linux and how an end user can have more control with their machine.  Using the knowledge I gained in this class, I will be able to work in a job I love!
+
 Through Hicks' online class, I have learned the business side of IT like decision making styles that can help companies with their IT department and their needs and so on.
 
 Go back to [Home](https://rcestep.github.io)!
