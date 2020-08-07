@@ -1,4 +1,4 @@
-# Networking
+## Networking
 ----------------
 
 Without networking, businesses would not be able to thrive in the marketplace.  The world would be stuck with having to physically mail important documents through the USPS.
