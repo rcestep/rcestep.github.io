@@ -46,8 +46,8 @@ With Operating Systems, I know the installation process of Windows and Linux:
 
 Click one of these links to view my portfolio! | I promise you won't regret it!
 --------------------------------------------- | ---------------------------------------------------------------
-[Systems Applications](systems/systems.md) | [Networking](networking/networking.md)
-[Other](other/other.md) | [Home](..)
+[Systems Applications](../systems/systems.md) | [Networking](../networking/networking.md)
+[Other](../other/other.md) | [Home](..)
 
 
 [LinkedIn](https://linkedin.com/in/roland-c-estep) | [GitHub](https://github.com/rcestep) | [Discord](https://discordhub.com/profile/532348150019522580)
