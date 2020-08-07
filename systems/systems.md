@@ -29,7 +29,7 @@ The following operating systems that I have knowledge in are as follows:
     * pwd
     * vi
     * mv/cp
-  * Projects inscluding:
+  * Projects including:
     * LAMP Server
     * Tiny RSS Server
     * Emulation Gaming Raspberry Pi
