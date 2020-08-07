@@ -5,31 +5,31 @@ My knowledge of Operating Systems and many aspects of operating systems is vast 
 
 The following operating systems that I have knowledge in are as follows:
 
-1. Windows Server 2019/2016/2012 R2
-  1. Active Directory
-  1. DHCP
-  1. DNS
-  1. File Sharing
-  1. NTFS Permissions
+* Windows Server 2019/2016/2012 R2
+  * Active Directory
+  * DHCP
+  * DNS
+  * File Sharing
+  * NTFS Permissions
 
-1. Windows 8/8.1/10
-  1. Single User Configurations
-  1. Desktop Setup both Physical and Technical
+* Windows 8/8.1/10
+  * Single User Configurations
+  * Desktop Setup both Physical and Technical
 
-1. macOS
-  1. Single User Configurations
-  1. Troubleshooting Issues
+* macOS
+  * Single User Configurations
+  * Troubleshooting Issues
 
-1. Linux
-  1. Installation and Deployment
-  1. File Sharing
-  1. Setting up servers to run Wordpress
-  1. CLI commands
+* Linux
+  * Installation and Deployment
+  * File Sharing
+  * Setting up servers to run Wordpress
+  * CLI commands
     * apt
     * pwd
     * vi
     * mv/cp
-  1. Projects inscluding:
+  * Projects inscluding:
     * LAMP Server
     * Tiny RSS Server
     * Emulation Gaming Raspberry Pi
