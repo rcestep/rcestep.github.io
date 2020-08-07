@@ -9,6 +9,7 @@ With Operating Systems, I know the installation process of Windows and of Linux:
     * Installation from USB or CD-ROM
     * Different Versions of Windows 10 ie. Home, Pro, Education, and Enterprise
 
+![Windows 10 Instal Screen](windows10install.png)
   * Windows Server
     * Installation from USB or CD-ROM
     * Setting up server for enterprise usage and for small to medium sized businesses for optimal and best performance
