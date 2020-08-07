@@ -43,6 +43,13 @@ With Operating Systems, I know the installation process of Windows and Linux:
   * Configuring usernames and passwords for new upcoming users or changing passwords for higher security measures
   * Using more complex passwords to help secure the network and server resources
 
+
+Click one of these links to view my portfolio! | I promise you won't regret it!
+--------------------------------------------- | ---------------------------------------------------------------
+[Systems Applications](systems/systems.md) | [Networking](networking/networking.md)
+[Other](other/other.md) | [Home](..)
+
+
 [LinkedIn](https://linkedin.com/in/roland-c-estep) | [GitHub](https://github.com/rcestep) | [Discord](https://discordhub.com/profile/532348150019522580)
 -------------------------------------------------- | ------------------------------------ | ------------------------------------------------------------
 Email: **roland.estep@outlook.com**                | Phone: **(980) 892-2512**             | [Reddit](https://reddit.com/user/rcmoonpie1)
