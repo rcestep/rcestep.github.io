@@ -1,9 +1,9 @@
 ## Systems Applications
 -------------------------
 
-My knowledge of Operating Systems and many aspects of operating systems is vast with musch of it being in the Windows realm of technology, but I do also have knowledge in Linux and macOS and well as Android and iOS.  As for networking devices, I am <strong><u>massively</u></strong> knowledgable of Cisco IOS for Cisco routers and switches.  I also have accute knowledge of the Cisco ASA firewall configurations as well.
+My knowledge of Operating Systems and many aspects of operating systems is vast with much of it being in the Windows realm of technology, but I also have knowledge in Linux and macOS and well as Android and iOS.  As for networking devices, I am <strong><u>massively</u></strong> knowledgeable about Cisco IOS for Cisco routers and switches as well as accute knowledge of the Cisco ASA firewall configurations as well.
 
-The following operating systems that I have knowledge in are as follows:
+The following operating systems that I fairly understand are as follows:
 
 * Windows Server 2019/2016/2012 R2
   * Active Directory
@@ -18,17 +18,13 @@ The following operating systems that I have knowledge in are as follows:
 
 * macOS
   * Single User Configurations
-  * Troubleshooting Issues
+  * Solving End User Issues
 
 * Linux
   * Installation and Deployment
   * File Sharing
-  * Setting up servers to run Wordpress
+  * Wordpress
   * CLI commands
-    * apt
-    * pwd
-    * vi
-    * mv/cp
   * Projects including:
     * LAMP Server
     * Tiny RSS Server
