@@ -18,12 +18,12 @@ My knowledge of networking in IT is as follows:
   * Utilizing the subnet mask of a certain IP class and fitting the network to the size that needs to be accounted for
 
 ### Cisco IOS
-  * Configuring Cisco routers and switches to perform correctly and effeciently for any sized business
+  * Configuring Cisco routers and switches to connect through means of routing protocols like EIGRP and OSPF, issuing VLANs on switches to segregate networks and increase network stability, and configuring trunks on the switches as well as configuring a router with Router-on-a-stick to route between VLANs where necessary
   * Troubleshoot any issues in the configuration of the router/switch and correct the issue
 
 ### Switching/Routing Concepts and Configurations
   * Proficient in the understanding of switch or router actions and can explain the difference between a switch and router
-  * Understand the forwarding action a router or switch takes and can see where information is sent and how it is sent
+  * Understand the forwarding action that a router or switch takes and can see where information is sent and how it is sent
 
 ### Topology Design
   * Ability to look at the needs of a business and give recommendations as well as design a topology that suits the business' needs
