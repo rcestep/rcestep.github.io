@@ -1,8 +1,9 @@
 ## Experience
 -------------------
 
-### Mitchell Community College - Information Technology           Aug 2018 - May 2020
-### Networking Major                                      Mooresville, North Carolina
+### Mitchell Community College - Information Technology | Aug 2018 - May 2020
+### ------------------------------------------------------- | --------------------
+### Networking Major | Mooresville, North Carolina
 ---------------------------------------------------------------------------------------
 Gaining experience in Network Administration through close partnership with peers and instructors.  Ultimately, working toward a modern skill set that can benefit society.
 
