@@ -11,9 +11,9 @@ Gaining experience in Network Administration through close partnership with peer
  * Mentoring and training students on fundemental networking concepts.
 
 
-### Walmart                                                       Aug 2015 - Apr 2018
-### Customer Service Associate                            Statesville, North Carolina
----------------------------------------------------------------------------------------
+### Walmart                              Aug 2015 - Apr 2018
+### Customer Service Associate   Statesville, North Carolina
+--------------------------------------------------------------
 Provided excellent customer service and assistance for the store through product returns, money order transactions, and overall purchases.
 
  * Established rapport with returning customers often being personally requested to assist in resolving a variety of tasks or issues.
@@ -21,4 +21,6 @@ Provided excellent customer service and assistance for the store through product
  * Provided progressive feedback and ideas to management to improve overall work environment.
  * Maintained an exemplary scanning speed which resulted in more efficient workflow.
 
-### Chick-Fil-A                                                   Feb 2015 - Aug 2015
+### Chick-Fil-A           Feb 2015 - Aug 2015
+### Team Member   Statesville, North Carolina
+-----------------------------------------------
