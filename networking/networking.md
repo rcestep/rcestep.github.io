@@ -39,7 +39,8 @@ My knowledge of networking in IT is as follows:
 Click one of these links to view my portfolio! | I promise you won't regret it!
 --------------------------------------------- | ---------------------------------------------------------------
 [Systems Applications](../systems/systems.md) | [Desktop](../desktop/desktop.md)
-[Other](../other/other.md) | [Home](..)
+[Other](../other/other.md) | [Experience](../experience/experience.md)
+[Education/Organizations](../education_organizations/education_organizations.md) | [Home](..)
 
 
 

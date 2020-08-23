@@ -30,4 +30,13 @@ Provided great customer service for the restaurant through taking orders, cookin
  * Learned how to work in a team and keep my workplace clean and organized while also maintaining excellent rapport with fellow customers.
  * Kept workflow at an adequate pace as orders were being placed, utilized work time efficinetly.
 
+Click one of these links to view my portfolio! | I promise you won't regret it!
+--------------------------------------------- | ---------------------------------------------------------------
+[Systems Applications](../systems/systems.md) | [Desktop](../desktop/desktop.md)
+[Networking](../networking/networking.md) | [Other](../other/other.md)
+[Home](..)
+
+[LinkedIn](https://linkedin.com/in/roland-c-estep) | [GitHub](https://github.com/rcestep) | [Discord](https://discordhub.com/profile/532348150019522580)
+-------------------------------------------------- | ------------------------------------ | ------------------------------------------------------------
+Email: **roland.estep@outlook.com**                | Phone: **(980) 892-2512**             | [Reddit](https://reddit.com/user/rcmoonpie1)  
 
