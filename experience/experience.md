@@ -11,8 +11,8 @@ Gaining experience in Network Administration through close partnership with peer
  * Mentoring and training students on fundemental networking concepts.
 
 
-### Walmart&nbsp;                           &nbsp;Aug 2015 - Apr 2018
-### Customer Service Associate&nbsp;       &nbsp;Statesville, North Carolina
+### Walmart &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Aug 2015 - Apr 2018
+### Customer Service Associate&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Statesville, North Carolina
 --------------------------------------------------------------
 Provided excellent customer service and assistance for the store through product returns, money order transactions, and overall purchases.
 
