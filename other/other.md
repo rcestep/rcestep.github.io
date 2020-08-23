@@ -1,30 +1,30 @@
-## My Other Accomplishments
-------------------------------
+## Other Attributes
+-----------------------------
 
-With my knowledge of networking through the Cisco track at Mitchell and with the help from a few friends, I was able to pass the CCNA Routing and Switching exam and even though I have come this far, I still have much more to learn!!
+### Customer Service
+ * Ability to help customers in a positive way by solving issues and will find the best solutions to problems in a fast clean way
 
-Click here to view my [CCENT](CCENT.png)!
+### Focused
+ * When on a job or task, I will keep working dillegently to finsih the job, and if need be, work with a team to finish the job
+ * When on multiple jobs or tasks, I can organize my time and physical area to work on the tasks at hand in a swift manner
 
-Click here to view my [CCNA R&S](CCNA_R&S.png)!
+### Problem Solving Adept
+ * When a problem arrises that needs attention, I will make the task first priority and in the time allotted will solve the problem quickly while collaborating with my team if needed
 
-Click here to view my [CCNA](CCNA.png)!
+### Leadership Minded
+ * With a team, I can lead a team in a professional manner and make sure that whatever task is needed to be done that the team works as one solid unit to make that task become finished
 
-Go back to [Home](https://rcestep.github.io)!
+### Resourceful
+ * When given a task, I can use my resources in an effective and be able to finish the task in an effective manner
 
-[Mr. Cain's Classes](https://rcestep.github.io/mrcainclass/mrcainclass.html)
 
-[Ms. Shoemaker's Classes](https://rcestep.github.io/msshoemakerclass/msshoemakerclass.html)
+Click one of these links to view my portfolio! | I promise you won't regret it!
+--------------------------------------------- | ----------------------------------
+[Systems Applications](../systems/systems.md) | [Desktop](../desktop/desktop.md)
+[Networking](../networking/networking.md) | [Home](..)
 
-[Ms. Watt's Class](https://rcestep.github.io/mswattclass/mswattclass.html)
 
-[Mr. Hicks' Classes](https://rcestep.github.io/mrhicksclass/mrhicksclass.html)
+[LinkedIn](https://linkedin.com/in/roland-c-estep) | [Github](https://github.com/rcestep) | [Discord](https://discordhub.com/profile/532349150019522580)
+--------------------- | ---------------------- | ---------------------------
+Email: **roland.estep$outlook.com** | Phone: **(980) 892-2512** | [Reddit](https://reddit.com/user/rcmoonpie1)
 
-[Mr. Benfield's Class](https://rcestep.github.io/mrbenfieldclass/mrbenfieldclass.html)
-
-[Mr. Theisen's Classes](https://rcestep.github.io/mrtheisenclass/mrtheisenclass.html)
-
-[Mitchell Technological Society](https://rcestep.github.io/mts/mts.html)
-
-[LinkedIn](https://linkedin.com/in/roland-c-estep) | [GitHub](https://github.com/rcestep) | [Discord](https://discordhub.com/profile/532348150019522580)
--------------------------------------------------- | ------------------------------------ | ------------------------------------------------------------
-Email: **roland.estep@outlook.com**                | Phone: **(980)892-2512**             | [Reddit](https://reddit.com/user/rcmoonpie1)
