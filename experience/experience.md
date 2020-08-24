@@ -34,7 +34,7 @@ Click one of these links to view my portfolio! | I promise you won't regret it!
 --------------------------------------------- | ---------------------------------------------------------------
 [Systems Applications](../systems/systems.md) | [Desktop](../desktop/desktop.md)
 [Networking](../networking/networking.md) | [Other](../other/other.md)
-[Education/Organizations](../education_organizations/educations_organizations.md) | [Home](..)
+[Education/Organizations](../education_organizations/education_organizations.md) | [Home](..)
 
 [LinkedIn](https://linkedin.com/in/roland-c-estep) | [GitHub](https://github.com/rcestep) | [Discord](https://discordhub.com/profile/532348150019522580)
 -------------------------------------------------- | ------------------------------------ | ------------------------------------------------------------
