@@ -1,7 +1,7 @@
 ## Systems Applications
 -------------------------
 
-My knowledge of Operating Systems and many aspects of operating systems is vast with much of it being in the Windows realm of technology, but I also have knowledge in Linux and macOS and well as Android and iOS.  As for networking devices, I am <strong><u>massively</u></strong> knowledgeable about Cisco IOS for Cisco routers and switches as well as accute knowledge of the Cisco ASA firewall configurations as well.
+My knowledge of Operating Systems and many aspects of operating systems is vast with much of it being in the Windows realm of technology, but I also have knowledge in Linux and macOS as well as Android and iOS.  As for networking devices, I am <strong><u>massively</u></strong> knowledgeable about Cisco IOS for Cisco routers and switches as well as accute knowledge of the Cisco ASA firewall configurations as well.
 
 The following operating systems that I fairly understand are as follows:
 

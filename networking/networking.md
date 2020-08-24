@@ -7,7 +7,7 @@ My knowledge of networking in IT is as follows:
 
 ### TCP/IP
   * Using Wireshark, being able to pinpoint where a packet has come from and where it is going as well as following a TCP stream and using many packets to gather the data being sent over the wire
-  * Using the TCP/IP model for troubleshooting issues that arrise in the network
+  * Using the TCP/IP model for troubleshooting issues that may arrise in the network
 
 ### IPv4/IPv6
   * Applying IP addressing both manually and automatically through DHCP

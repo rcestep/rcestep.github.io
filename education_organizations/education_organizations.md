@@ -29,7 +29,7 @@ Club Representative - 2018-2019 semester at Mitchell Community College
  * Represented the group in meetings with the Student Body and in events such as Business Expo in Mooresville in the Fall 2018 Semester and with STEAM (Science Technology Engineering Art and Mathematics) setup for middle school students to learn about IT and the world of computers.
 
 President - 2019-2020 semester at Mitchell Community College
- * Led team to do community outreach events and promoted technology to the greater Mooresville Statesville NC area.
+ * Led team to do community outreach events and promoted technology to the greater Mooresville/Statesville NC area.
 
 
 Click one of these links to view my portfolio! | I promise you won't regret it!

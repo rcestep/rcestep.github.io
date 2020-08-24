@@ -29,7 +29,7 @@ With Operating Systems, I know the installation process of Windows and Linux:
 
 #### Windows Server
   * Using Active Directory to add and remove users and groups in the server to maintain the users and groups in a performance driven organization
-  * Using Group Policy to dictate who can or cannot access a certain resources
+  * Using Group Policy to dictate who can or cannot access certain resources
   * Using security measures like passwords or biometric authentication to secure the network and to authenticate the users as they sign in to the network and access resources across the network
 
 #### Linux
