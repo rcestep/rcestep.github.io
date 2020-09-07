@@ -11,5 +11,3 @@ Click one of these links to view my portfolio! | I promise you won't regret it!
 [LinkedIn](https://linkedin.com/in/roland-c-estep) | [GitHub](https://github.com/rcestep) | [Discord](https://discordhub.com/profile/532348150019522580)
 -------------------------------------------------- | ------------------------------------ | ------------------------------------------------------------
 Email: **roland.estep@outlook.com**                | Phone: **(980) 892-2512**             | [Reddit](https://reddit.com/user/rcmoonpie1)
-
-[CCNP-Notes](https://rcestep.github.io/CCNP-Notes/) 
