@@ -22,10 +22,10 @@ Click one of these links to view my portfolio! | I promise you won't regret it!
 --------------------------------------------- | ----------------------------------
 [Systems Applications](../systems/systems.md) | [Desktop](../desktop/desktop.md)
 [Networking](../networking/networking.md) | [Experience](../experience/experience.md)
-[Education/Organizations](../education_organizations/education_organizations.md) | [Home](..)
+[Education/Organizations](../education_organizations/education_organizations.md) | [Projects](../projects/projects.md)
+[Certifications](../certifications/certifications.md) | [Home](..)
 
 
 [LinkedIn](https://linkedin.com/in/roland-c-estep) | [Github](https://github.com/rcestep) | [Discord](https://discordhub.com/profile/532349150019522580)
 --------------------- | ---------------------- | ---------------------------
 Email: **roland.estep$outlook.com** | Phone: **(980) 892-2512** | [Reddit](https://reddit.com/user/rcmoonpie1)
-
