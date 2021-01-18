@@ -4,6 +4,7 @@ This page is where all my projects are!
 
 [CCNP Notes](https://rcestep.github.io/CCNP-Notes/)
 
+[Bash Scripting](https://rcestep.github.io/bashscripting)
 
 Click one of these links to view my portfolio! | I promise you won't regret it!
 --------------------------------------------- | ---------------------------------------------------------------
