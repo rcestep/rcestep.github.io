@@ -9,7 +9,6 @@ Click one of these links to view my portfolio! | I promise you won't regret it!
 [Experience](experience/experience.md) | [Education/Organizations](education_organizations/education_organizations.md)
 [Projects](projects/projects.md) | [Certifications](certifications/certifications.md)
 
-[Bash Scripting](shellclass/shellclass.md)
 
 [LinkedIn](https://linkedin.com/in/roland-c-estep) | [GitHub](https://github.com/rcestep) | [Discord](https://discordhub.com/profile/532348150019522580)
 -------------------------------------------------- | ------------------------------------ | ------------------------------------------------------------
