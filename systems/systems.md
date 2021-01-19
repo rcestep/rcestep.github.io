@@ -20,6 +20,10 @@ The following operating systems that I fairly understand are as follows:
   * Single User Configurations
   * Solving End User Issues
 
+* iOS
+  * Resolving End User Issues
+  * Troubleshooting technical issues
+
 * Linux
   * Installation and Deployment
   * File Sharing
@@ -30,6 +34,7 @@ The following operating systems that I fairly understand are as follows:
     * Tiny RSS Server
     * Emulation Gaming Raspberry Pi
     * Cisco Configuration Automation and Backup
+    * [Bash Scripting](https://rcestep.github.io/bashscripting) for automation of terminal commands
 
 
 

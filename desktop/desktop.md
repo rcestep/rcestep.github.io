@@ -23,6 +23,7 @@ With Operating Systems, I know the installation process of Windows and Linux:
   * Formatting drives using the fdisk and mkfs commands
   * Setting permissions on files using the chmod and chown commands for specific needs
 
+
 ### Profiles and Local Rights
 #### Windows 10
   * Using Computer Management and the Local Users and Groups tool to make a new local user for that single system; adding password security and managing the single user for the computer.
@@ -36,6 +37,10 @@ With Operating Systems, I know the installation process of Windows and Linux:
   * Making sure users that need to be in the sudoers file are in there while also setting permissions on file shares and folders to keep the unauthorized out
   * Commands such as chmod and chown configure the rights and priviledges of the users' access to files
   * Using Samba to share files from Linux to Windows in the case of files needing shared between different Operating Systems
+  * Scripting for bash to create users on a local machine.  The executed script creates a user by reading the arguments given for the command and generates a random password through a SHA256 checksum sequence for added security and shortens the password to a 12 character password.  It then creates the user with the deseignated password and forces the user on first login to change their password.
+
+Click [here](https://rcestep.github.io/bashscripting) to see my bash scripts that I created both in a bash course I went through and some other personal handy scripts I made for ease-of-use.
+
 
 ### Domain Configurations
 #### Windows Server
